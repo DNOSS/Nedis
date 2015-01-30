@@ -1,0 +1,2 @@
+# Nedis
+C# Redis client
